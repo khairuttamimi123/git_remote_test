@@ -2,3 +2,5 @@ ini adalah file yang
 berisikan source code
 ini contoh fitur baru
 dari perubahan git
+
+fitur 1
