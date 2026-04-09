@@ -6,5 +6,11 @@ fitur topup
 ini mencoba untuk
 menyelesaikan konflik
 
+<<<<<<< Updated upstream
 dari github
 untuk menyelesaikan konflik
+=======
+ini mencoba untuk 
+menyelesaikan 
+konflik
+>>>>>>> Stashed changes
